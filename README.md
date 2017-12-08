@@ -1,2 +1,0 @@
-# Aavin
-Dairy Project
